@@ -10,10 +10,4 @@
 		<PackageOutputPath>./nupkg</PackageOutputPath>
 	</PropertyGroup>
 
-	<ItemGroup>
-	  <None Update="freb.xsl">
-	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-	  </None>
-	</ItemGroup>
-
 </Project>
