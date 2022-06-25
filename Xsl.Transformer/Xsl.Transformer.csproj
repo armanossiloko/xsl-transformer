@@ -8,13 +8,14 @@
 		<PackAsTool>true</PackAsTool>
 		<ToolCommandName>xslt</ToolCommandName>
 		<PackageOutputPath>./nupkg</PackageOutputPath>
-		<PackageLicenseExpression>https://licenses.nuget.org/MIT</PackageLicenseExpression>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<RepositoryUrl>https://github.com/TheDoomKing/xsl-transformer</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<PackageTags>xslt;xsl;xml;csharp</PackageTags>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageProjectUrl>https://github.com/TheDoomKing/xsl-transformer</PackageProjectUrl>
 		<Authors>armanossiloko</Authors>
+		<Description>Transforms a given data file (usually in .XML format, e.g IIS failed request log file) into a human or browser readable file (e.g HTML, XLS, etc.).</Description>
 	</PropertyGroup>
 
 	<ItemGroup>
