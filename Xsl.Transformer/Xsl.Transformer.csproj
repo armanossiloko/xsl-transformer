@@ -13,6 +13,7 @@
 		<RepositoryType>git</RepositoryType>
 		<PackageTags>xslt;xsl;xml;csharp</PackageTags>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<PackageProjectUrl>https://github.com/TheDoomKing/xsl-transformer</PackageProjectUrl>
 	</PropertyGroup>
 
 	<ItemGroup>
