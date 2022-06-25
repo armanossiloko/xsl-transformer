@@ -6,6 +6,7 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 		<PackAsTool>true</PackAsTool>
+		<Version>1.0.1</Version>
 		<ToolCommandName>xslt</ToolCommandName>
 		<PackageOutputPath>./nupkg</PackageOutputPath>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
