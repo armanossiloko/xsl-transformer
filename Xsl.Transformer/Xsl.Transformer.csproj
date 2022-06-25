@@ -8,7 +8,7 @@
 		<PackAsTool>true</PackAsTool>
 		<ToolCommandName>xslt</ToolCommandName>
 		<PackageOutputPath>./nupkg</PackageOutputPath>
-		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageLicenseExpression>https://licenses.nuget.org/MIT</PackageLicenseExpression>
 		<RepositoryUrl>https://github.com/TheDoomKing/xsl-transformer</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<PackageTags>xslt;xsl;xml;csharp</PackageTags>
