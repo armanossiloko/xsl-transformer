@@ -1,9 +1,9 @@
 <p align="center">
   <a title="NuGet download" target="_blank" href="https://www.nuget.org/packages/Xsl.Transformer"><img src="https://img.shields.io/nuget/dt/Xsl.Transformer"></a>
   <a title="NuGet download" target="_blank" href="https://www.nuget.org/packages/Xsl.Transformer"><img alt="NuGet" src="https://img.shields.io/nuget/v/Xsl.Transformer"></a>
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/TheDoomKing/xsl-transformer">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/TheDoomKing/xsl-transformer">
-  <a title="MIT License" target="_blank" href="https://licenses.nuget.org/MIT"><img src="https://img.shields.io/github/license/TheDoomKing/xsl-transformer"></a>
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/armanossiloko/xsl-transformer">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/armanossiloko/xsl-transformer">
+  <a title="MIT License" target="_blank" href="https://licenses.nuget.org/MIT"><img src="https://img.shields.io/github/license/armanossiloko/xsl-transformer"></a>
 </p>
 
 # XSL transformer
