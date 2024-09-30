@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gamestore>
+    <game>
+        <title>Left 4 Dead 2</title>
+        <developer>Valve</developer>
+        <year>2009</year>
+        <price>9.99</price>
+    </game>
+    <game>
+        <title>Rocket League</title>
+        <developer>Psyonix</developer>
+        <year>2015</year>
+        <price>FREE</price>
+    </game>
+    <game>
+        <title>Mario Kart 8 Deluxe</title>
+        <developer>Nintendo</developer>
+        <year>2017</year>
+        <price>59.99</price>
+    </game>
+    <game>
+        <title>Red Dead Redemption 2</title>
+        <developer>Rockstar Games</developer>
+        <year>2018</year>
+        <price>59.99</price>
+    </game>
+</gamestore>
