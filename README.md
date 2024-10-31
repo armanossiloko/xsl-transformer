@@ -70,7 +70,10 @@ This project utilizes the following open-source libraries, please star them on G
 
 ## Contributing
 
-Got suggestions, found a bug or would like to contribute? If so, feel free to create issues or pull requests.
+Got suggestions, found a bug or would like to contribute? If so, feel free to create issues or pull requests. Please do make sure to try to write clear and concise commit messages.
+
+## Support
+If you find this project helpful, you can support me on [PayPal.me](https://paypal.me/armanossiloko).
 
 ## License
 
